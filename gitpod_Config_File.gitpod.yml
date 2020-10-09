@@ -1,0 +1,4 @@
+
+RUN gp init
+image:
+  file:gitpod.yml
